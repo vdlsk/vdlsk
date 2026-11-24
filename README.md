@@ -27,14 +27,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Featured projects
-| Project | What it does | Stack |
-|---|---|---|
-| [**Credit Risk Scorecard & Expected Loss**](https://github.com/vdlsk/Credit-Risk-Scorecard-Expected-Loss-Model) | IFRS 9 / Basel-style scorecard with PD × LGD × EAD | Python, Logistic Regression |
-| [**DocIntel**](https://github.com/vdlsk/DocIntel-LLM-Powered-Credit-Rating-Report-Analyzer) | Credit rating PDF → dashboard + cited chatbot | LangGraph, RAG, Streamlit, FastAPI |
-| [**SmartDialer**](https://github.com/vdlsk/SmartDialer-Predictive-Collections-Dialer-Safety-Controller) | Predictive collections dialer with a safety controller | Python, SQLite, simulation |
-| [**Airline Delay & Reliability Analysis**](https://github.com/vdlsk/Airline-Delay-Reliability-Analysis-using-SQL) | SQL analysis of NYC 2013 flight delays | SQL, DuckDB, Streamlit |
-| [**Credit Default Prediction**](https://github.com/vdlsk/Credit-Default-Prediction-Risk-Classification-Engine) | Borrower default-risk classification | Python, ML |
-| [**AI Investment Portfolio Risk**](https://github.com/vdlsk/-AI-Powered-Investment-Portfolio-Risk-Asset-Management-System) | Portfolio risk and asset management with AI | Python, AI |
+| Project | What it does | Stack | Demo |
+|---|---|---|---|
+| [**Credit Risk Scorecard & Expected Loss**](https://github.com/vdlsk/Credit-Risk-Scorecard-Expected-Loss-Model) | IFRS 9 / Basel-style scorecard with PD × LGD × EAD | Python, Logistic Regression | [▶ Live](https://credit-risk-scorecard-expected-loss-model-movssnqw6wdcf9k7ifeg.streamlit.app) |
+| [**DocIntel**](https://github.com/vdlsk/DocIntel-LLM-Powered-Credit-Rating-Report-Analyzer) | Credit rating PDF → dashboard + cited chatbot | LangGraph, RAG, Streamlit, FastAPI | [▶ Live](https://docintel-llm-powered-credit-rating-report-analyzer-fkd7kbdbjjs.streamlit.app) |
+| [**SmartDialer**](https://github.com/vdlsk/SmartDialer-Predictive-Collections-Dialer-Safety-Controller) | Predictive collections dialer with a safety controller | Python, SQLite, simulation | – |
+| [**Airline Delay & Reliability Analysis**](https://github.com/vdlsk/Airline-Delay-Reliability-Analysis-using-SQL) | SQL analysis of NYC 2013 flight delays | SQL, DuckDB, Streamlit | – |
+| [**Credit Default Prediction**](https://github.com/vdlsk/Credit-Default-Prediction-Risk-Classification-Engine) | Borrower default-risk classification | Python, ML | – |
+| [**AI Investment Portfolio Risk**](https://github.com/vdlsk/-AI-Powered-Investment-Portfolio-Risk-Asset-Management-System) | Portfolio risk and asset management with AI | Python, AI | – |
 
 <details>
 <summary><b>📊 GitHub stats (click to expand)</b></summary>
